@@ -72,9 +72,6 @@ An interactive 3D developer portfolio designed to showcase my projects, skills, 
 ### 🌐 3D Developer Portfolio
 Interactive portfolio with 3D elements, animations, responsive design, and modern UI.
 
-### 🛒 uTrading
-A modern e-commerce/cart project featuring product management and browser-based cart functionality.
-
 ### 🧾 Java Invoice System
 A Java-based invoice generation project designed to simplify invoice creation and PDF generation.
 
